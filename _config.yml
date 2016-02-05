@@ -14,10 +14,10 @@ author_description: >
   Jessica Landau, Edward Prutzer, Svetlozara Stoytcheva, Melissa Seifert 
 email: robin@hybridpedagogy.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Exploring the dynamically discursive nature of syllabi as boundary objects — the 
+  Exploring the dynamically discursive nature of syllabi as boundary objects — the 
   complex, often surprisingly fraught negotiations involved when one new element is 
   introduced to traditional syllabi: the charge to bring in a collaborator from 
-  outside one's home discipline."
+  outside one's home discipline.
 baseurl: "/codesign" # the subpath of your site, e.g. /blog
 url: "http://hybrid.pub/" # the base hostname & protocol for your site
 
