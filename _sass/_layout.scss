@@ -43,7 +43,7 @@
     text-align: center;
 
     &::after {
-        @include retina-background-image($img-dude);
+//        @include retina-background-image($img-dude);
         display: block;
         content: "";
         width: 65px;
