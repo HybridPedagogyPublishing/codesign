@@ -7,14 +7,17 @@
 
 # Site settings
 title: "Co-Design: Collaborative Pedagogy in DH and Building Inclusive Digital Ethics"
-author: Anita Say Chan, et al.
+author: Anita Say Chan, ed.
 author_link: http://hybrid.pub/codesign
-author_description: A few words to describe you & your face
+author_description: > 
+  "Mike Atienza, Gabe McCoy, elizaBeth Simpson, Fabian Prieto-Ñañez, Hong-An Wu, 
+  Jessica Landau, Edward Prutzer, Svetlozara Stoytcheva, Melissa Seifert" 
 email: robin@hybridpedagogy.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "Exploring the dynamically discursive nature of syllabi as boundary objects — the 
+  complex, often surprisingly fraught negotiations involved when one new element is 
+  introduced to traditional syllabi: the charge to bring in a collaborator from 
+  outside one's home discipline."
 baseurl: "/codesign" # the subpath of your site, e.g. /blog
 url: "http://hybrid.pub/" # the base hostname & protocol for your site
 
