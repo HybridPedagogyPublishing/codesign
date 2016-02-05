@@ -53,12 +53,12 @@
         // Force default text colour [as post-header is wrapped by a link]
         color: $text-color;
 
-        @include min-breakpoint($post-title-medium-breakpoint) {
-            font-size: $post-title-medium-font-size;
+        @include min-breakpoint($post-author-medium-breakpoint) {
+            font-size: $post-author-medium-font-size;
         }
 
         @include min-breakpoint($desktop-breakpoint) {
-            font-size: $post-title-max-font-size;
+            font-size: $post-author-max-font-size;
         }
     }
 
