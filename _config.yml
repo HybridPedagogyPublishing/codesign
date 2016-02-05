@@ -33,7 +33,7 @@ typekit_kit_id: kwf5dox
 # Build settings
 gems: [jekyll-paginate]
 markdown: kramdown
-permalink: pretty
+permalink: :title
 
 # Pagination
 paginate: 5
