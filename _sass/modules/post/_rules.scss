@@ -42,6 +42,26 @@
         }
     }
 
+    .post-author {
+        font-family: $title-font-family;
+        display: block;
+        font-weight: 700;
+        font-size: $post-author-min-font-size;
+        text-align: center;
+        line-height: 1.25;
+
+        // Force default text colour [as post-header is wrapped by a link]
+        color: $text-color;
+
+        @include min-breakpoint($post-title-medium-breakpoint) {
+            font-size: $post-title-medium-font-size;
+        }
+
+        @include min-breakpoint($desktop-breakpoint) {
+            font-size: $post-title-max-font-size;
+        }
+    }
+
     .post-date {
         display: block;
         border-top: 1px solid $border-color;
