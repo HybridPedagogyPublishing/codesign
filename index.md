@@ -10,5 +10,5 @@ Anita Say Chan, editor.
   
 ## Contents
 
-[Introduction](introduction/), Anita Say Chan
+[Introduction](introduction), Anita Say Chan
 
