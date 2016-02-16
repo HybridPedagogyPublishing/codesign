@@ -12,3 +12,5 @@ layout: post
 
 [Introduction](introduction), Anita Say Chan
 
+[1. The Unthinkable Ally: Private/Public (Sector) Engagements to Produce an Interdisciplinary Collaborative Syllabus](atienza), Mike Atienza
+
