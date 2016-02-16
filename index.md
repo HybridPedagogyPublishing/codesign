@@ -14,3 +14,5 @@ layout: post
 
 [1. The Unthinkable Ally: Private/Public (Sector) Engagements to Produce an Interdisciplinary Collaborative Syllabus](atienza), Mike Atienza
 
+[2. Encountering the Unexpected Other: On Building an Intellectual Commons](mccoy), Gabe McCoy
+
