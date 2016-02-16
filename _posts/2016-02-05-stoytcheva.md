@@ -88,8 +88,6 @@ Silberman, S. (1997). “PLATOfest to celebrate first online community.” *Wire
 
 Smith, S. G. & Sherwood, B.A. (1976). “Educational uses of the PLATO computer system.” *Science* 192(4237): 344–52. doi:10.1126/science.769165.
 
-Top of Form
-
 Suchman, L. A. (2007). *Human-machine reconfigurations: Plans and situated actions*. New York: Cambridge University Press.
 
 Watters, A. (2014). “Convivial tools in an age of surveillance.” Retrieved from [*http://hackeducation.com/2014/11/13/convivial-tools-in-an-age-of-surveillance/*](http://hackeducation.com/2014/11/13/convivial-tools-in-an-age-of-surveillance/).
