@@ -21,3 +21,9 @@ layout: post
 [4. Technology and Us: Localizing a collaborative syllabus for critical gaming at the library](FabianAnn), Fabian Prieto-Ñañez & Hong-An Wu
 
 [5. Scholarship from the Woods: Collaboration and Kinship with Nonhuman Companions](landau), Jessica Landau
+
+[6. Traffic in Mapping the Social](prutzer), Ned Prutzer
+
+[7. \*\*\*title\*\*\*](stoytcheva), Sveta Stoytcheva
+
+[8. Opening the *White Cube* and Finding it Empty: Codesigning a Pedagogy for Art In the Streets](seifert), Melissa Seifert
