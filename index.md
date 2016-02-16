@@ -20,3 +20,4 @@ layout: post
 
 [4. Technology and Us: Localizing a collaborative syllabus for critical gaming at the library](FabianAnn), Fabian Prieto-Ñañez & Hong-An Wu
 
+[5. Scholarship from the Woods: Collaboration and Kinship with Nonhuman Companions](landau), Jessica Landau
