@@ -16,3 +16,5 @@ layout: post
 
 [2. Encountering the Unexpected Other: On Building an Intellectual Commons](mccoy), Gabe McCoy
 
+[3. Organizing for Organizers: A Systems Approach to Participatory Collaboration](simpson), elizaBeth Simpson
+
