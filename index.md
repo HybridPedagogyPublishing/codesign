@@ -18,3 +18,5 @@ layout: post
 
 [3. Organizing for Organizers: A Systems Approach to Participatory Collaboration](simpson), elizaBeth Simpson
 
+[4. Technology and Us: Localizing a collaborative syllabus for critical gaming at the library](FabianAnn), Fabian Prieto-Ñañez & Hong-An Wu
+
