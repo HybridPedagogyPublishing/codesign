@@ -1,8 +1,8 @@
 'use strict'
 
 var secretRevealed = false
-var doSecretReveal
-var resetSecretReveal
+//var doSecretReveal
+//var resetSecretReveal
 
 doSecretReveal = function () {
   // Remove the negative offset from the banner, while also scrolling down the page
