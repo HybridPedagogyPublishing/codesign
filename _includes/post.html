@@ -1,9 +1,7 @@
 <article class="post">
     <header>
-        <a href="{{ include.post.url | prepend: site.baseurl }}">
-            <h1 class="post-title">{{ include.post.title }}</h1>
-        </a>
-		<p class="post-author">{{ include.post.author }}</p><br/>
+      <h1 class="post-title">{{ include.post.title }}</h1>
+  		<p class="post-author">{{ include.post.author }}</p><br/>
     </header>
     <div class="post-body">
         {{ include.content }}
