@@ -35,7 +35,7 @@ Jessica Landau is a PhD student in Art History at the University of Illinois at 
 <a name="prutzer"></a>
 **Ned Prutzer**
 
-    Ned Prutzer is a fourth year Communications and Media PhD student with the Institute of Communications Research at the University of Illinois at Urbana-Champaign. His research focuses on the expansion of location-aware media functionalities within alternative media that foster community-based knowledge production. Currently, he serves as a research assistant for the Innovation in the Global Midwest project, a Humanities Without Walls initiative linking the University of Illinois, the University of Minnesota, and Purdue University. He was previously a Seeing Systems fellow with the Learning to See Systems faculty and graduate student group at UIUC, and has taught in UIUC’s Department of Media and Cinema Studies.
+Ned Prutzer is a fourth year Communications and Media PhD student with the Institute of Communications Research at the University of Illinois at Urbana-Champaign. His research focuses on the expansion of location-aware media functionalities within alternative media that foster community-based knowledge production. Currently, he serves as a research assistant for the Innovation in the Global Midwest project, a Humanities Without Walls initiative linking the University of Illinois, the University of Minnesota, and Purdue University. He was previously a Seeing Systems fellow with the Learning to See Systems faculty and graduate student group at UIUC, and has taught in UIUC’s Department of Media and Cinema Studies.
 
 <a name="stoytcheva"></a>
 **Sveta Stoytcheva**
