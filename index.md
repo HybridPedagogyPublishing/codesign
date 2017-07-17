@@ -4,7 +4,7 @@ layout: post
 
 <p style="font-style: italic; text-align: center;">Exploring the dynamically discursive nature of syllabi as boundary objects — the complex, often surprisingly fraught negotiations involved when one new element is introduced to traditional syllabi: the charge to bring in a collaborator from outside one's home discipline.</p>
 
-**Authors:** [Mike Atienza](authors.html#atienza), [Gabe McCoy](authors.html#mccoy), [elizaBeth Simpson](authors.html#simpson), [Fabian Prieto-Ñañez](authors.html#prieto), [Hong-An Wu](authors.html#wu), [Jessica Landau](authors.html#landau), [Edward Prutzer](authors.html#prutzer), [Svetlozara Stoytcheva](authors.html#stoytcheva), [Melissa Seifert](authors.html#seifert).
+**Authors:** [Mike Atienza](authors.html#atienza), [Gabe McCoy](authors.html#mccoy), [elizaBeth Simpson](authors.html#simpson), [Fabian Prieto-Ñañez](authors.html#prieto), [Hong-An Wu](authors.html#wu), [Jessica Landau](authors.html#landau), [Edward Prutzer](authors.html#prutzer), [Svetlozara Stoytcheva](authors.html#stoytcheva), [Melissa Terry](authors.html#terry).
 
 **Editors:** [Anita Say Chan](authors.html#chan), [Robin Wharton](authors.html#wharton).
 
