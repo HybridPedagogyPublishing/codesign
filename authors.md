@@ -28,8 +28,8 @@ layout: post
 <a name="stoytcheva"></a>
 **Svetlozara Stoytcheva**
 
-<a name="seifert"></a>
-**Melissa Seifert**
+<a name="terry"></a>
+**Melissa Terry**
 
 ## Editors
 
